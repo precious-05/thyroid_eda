@@ -1,4 +1,4 @@
-#  Exploratory Data Analysis — Thyroid Cancer Risk Dataset
+#  Exploratory Data Analysis | Thyroid Cancer Risk Dataset
 
 A comprehensive step-by-step EDA on the **Thyroid Cancer Risk** dataset, covering initial exploration, data cleaning, univariate analysis, outlier detection using box plots (IQR method), bivariate analysis, multivariate analysis, class imbalance measurement, and categorical encoding guidance.
 
